@@ -9,6 +9,7 @@ topics:
 
 - callback/callbackHell
 - promise
+- closure
 
 
 ## Deployment
